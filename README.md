@@ -35,8 +35,6 @@ Building scalable ML inference systems, perception pipelines, and real-time edge
 
 ###  Coding Activity & Metrics
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1661&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1661&theme=react-dark&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF" alt="Activity Graph" />
 </div>
 
