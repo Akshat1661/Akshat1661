@@ -37,4 +37,4 @@ Most of my recent work involves turning models into reliable systems: data pipel
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/akshat-desai-10bba1235/) · [Portfolio](https://akshat-desai-portfolio.vercel.app/) · akshat.desai.754@gmail.com
+[LinkedIn](https://www.linkedin.com/in/akshat-desai-10bba1235/) · [Portfolio](https://akshat-desai-portfolio.vercel.app/) · [Email](mailto:akshat.desai.754@gmail.com)
