@@ -1,43 +1,49 @@
 # Akshat Desai
-**AI Infrastructure & Machine Learning Engineer**
 
-Building scalable ML inference systems, perception pipelines, and real-time edge hardware architectures. Currently pursuing an M.S. in Computer Science at California State University, Fullerton (Expected May 2026). 
+**AI/ML Engineer | LLM Systems, Computer Vision & Applied ML**
 
-`Status: Actively seeking Summer 2026 AI/ML Engineering Internships & New Grad Roles`
+I build practical AI systems that move beyond notebooks into usable tools. My work spans LLM systems, RAG, computer vision, medical imaging, time-series forecasting, data pipelines, and deployment.
 
----
-
-###  Current Work & Engineering Focus
-*Note: Due to industry IP, university restrictions, and ISRO security protocols, my most recent enterprise repositories are private. Below is a high-level architectural overview of my active systems:*
-
-* **Edge AI & Autonomous Reasoning (Lightwall)**
-  Architecting a sub-500ms C++ real-time inference bridge integrating Llama 3.2 with mmWave radar telemetry to orchestrate 12 synchronized stepper motors. 
-* **Scalable LLM Inference (DeepSeek)**
-  Engineering serverless Docker deployments on Google Cloud Run to serve 14GB fine-tuned transformer models, aggressively tuning vLLM memory utilization to bypass cold-boot timeouts.
-* **HPC Distributed Processing (Medical AI)**
-  Orchestrating the batch processing of 1,200+ high-resolution 3D MRI scans across Linux HPC clusters utilizing SLURM array jobs and PyTorch.
-* **Satellite Perception (ISRO)**
-  Profiled and optimized C++ computer vision pipelines for orbital object and debris tracking, reducing real-world preprocessing latency by 60%.
+I’m currently pursuing an M.S. in Computer Science at California State University, Fullerton, with experience building research and applied AI systems across Verilog tutoring, medical imaging, interactive AI installations, satellite-camera vision, and forecasting dashboards.
 
 ---
 
-###  Core Stack & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+## Current Work & Engineering Focus
+
+Most of my recent work involves turning models into reliable systems: data pipelines, retrieval, evaluation loops, inference, APIs, dashboards, and user-facing tools.
+
+- **LLM Systems & Verilog AI Tutor**  
+  Built a browser-based Verilog AI tutoring and simulator sandbox using a fine-tuned 32B code LLM, RAG over verified Verilog examples, ChromaDB, vLLM, Icarus Verilog validation, Firebase authentication, and Docker/GCP deployment workflows.
+
+- **Medical Imaging & Alzheimer’s Radiomics**  
+  Built an MRI radiomics pipeline across 1,229 ADNI subjects using FreeSurfer, PyRadiomics, Python, Linux/HPC, SLURM array jobs, LASSO feature selection, and XGBoost classification.
+
+- **Interactive AI Installation: Lightwall**  
+  Developed the local AI system for an interactive museum installation, connecting Llama inference, speech recognition, radar-based visitor sensing, JSON persona loading, and hardware-control logic for real-time visitor interaction.
+
+- **Computer Vision at ISRO**  
+  Built a real-time satellite-camera exposure-control pipeline using Python, OpenCV, pyueye, and IDS live camera streaming for object tracking, ROI extraction, and exposure adjustment.
+
+- **Applied ML & Forecasting**  
+  Built forecasting and decision-support systems including a solar power forecasting model and a 1st-place AI staffing dashboard using XGBoost, Flask, AWS Bedrock, LangChain, and LangGraph.
 
 ---
 
-###  Coding Activity & Metrics
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1661&theme=react-dark&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF" alt="Activity Graph" />
-</div>
+## Core Stack
 
-<br>
+`Python` · `C++` · `SQL` · `Bash` · `PyTorch` · `TensorFlow` · `scikit-learn` · `XGBoost` · `LightGBM` · `OpenCV` · `Docker` · `AWS` · `GCP Cloud Run` · `Firebase` · `Flask` · `FastAPI` · `Streamlit` · `Linux/HPC` · `SLURM` · `FreeSurfer` · `PyRadiomics` · `vLLM` · `LoRA` · `RAG` · `LangChain` · `LangGraph` · `ChromaDB`
 
-**[LinkedIn](https://www.linkedin.com/in/akshat-desai-10bba1235/) ｜ [Portfolio](https://akshat-desai-portfolio.vercel.app) ｜ [akshat.desai.754@gmail.com](mailto:akshat.desai.754@gmail.com)**
+---
+
+## Selected Projects
+
+- [Portfolio](https://akshat-desai-portfolio.vercel.app/) — selected AI/ML projects, research, publications, and system architecture.
+- [Waste Detection in WaRP using YOLOv8](https://github.com/Akshat1661/Waste-Detection-in-WaRP-using-yolov8) — object detection for recycling plant waste categories.
+- [CPP Dining AI Staffing Dashboard](https://github.com/Akshat1661/CPP-Dining-AI-Staffing-Dashboard) — 1st-place CSU AI Summer Camp / AWS project for campus dining staffing optimization.
+- CaltransGPT RAG Knowledge Assistant — private/limited public release due to document and dataset constraints.
+
+---
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/akshat-desai-10bba1235/) · [Portfolio](https://akshat-desai-portfolio.vercel.app/) · akshat.desai.754@gmail.com
