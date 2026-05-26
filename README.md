@@ -35,15 +35,6 @@ Most of my recent work involves turning models into reliable systems: data pipel
 
 ---
 
-## Selected Projects
-
-- [Portfolio](https://akshat-desai-portfolio.vercel.app/) — selected AI/ML projects, research, publications, and system architecture.
-- [Waste Detection in WaRP using YOLOv8](https://github.com/Akshat1661/Waste-Detection-in-WaRP-using-yolov8) — object detection for recycling plant waste categories.
-- [CPP Dining AI Staffing Dashboard](https://github.com/Akshat1661/CPP-Dining-AI-Staffing-Dashboard) — 1st-place CSU AI Summer Camp / AWS project for campus dining staffing optimization.
-- CaltransGPT RAG Knowledge Assistant — private/limited public release due to document and dataset constraints.
-
----
-
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/akshat-desai-10bba1235/) · [Portfolio](https://akshat-desai-portfolio.vercel.app/) · akshat.desai.754@gmail.com
